@@ -1,0 +1,64 @@
+#product-description .add {
+    width: 240px !important;
+    float: left;
+    margin-top: -20px;
+    margin-left: 15px;
+    height: 60px;
+    box-shadow: 1px 1px 6px rgba(0,0,0,0.5);
+}
+
+#product-add-to-cart {
+    font-size: 20px !important;
+    line-height: 1;
+    font-weight: normal;
+    clear: none;
+}
+.blue-btn, #product-add-to-cart, #basket-right #checkout, #slide-cart .checkout-link, #crt .checkout-link, #continue-shopping-btn {
+    border: none;
+    color: #fff !important;
+    font-weight: normal;
+    border-radius: 3px 3px 3px 3px;
+    -webkit-border-radius: 3px 3px 3px 3px;
+    -moz-border-radius: 3px 3px 3px 3px;
+    padding: 10px 40px;
+    background-color: #2a9dcc;
+    background-image: none;
+    box-shadow: none;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    transition: background-color 0.2s ease-in-out,color 0.2s ease-in-out;
+}
+body, p, a, h1, h2, h3, h4, h5, h6, .button, button, input[type="submit"], input[type="reset"], input[type="button"], ul#main-nav li a {
+    font-family: 'Open Sans', sans-serfif;
+}
+.button, button, input[type="submit"], input[type="reset"], input[type="button"] {
+    width: 100%;
+    max-width: 100%;
+    background: #000000;
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    border: none;
+    -webkit-transition: background .5s ease,color .5s ease;
+    -moz-transition: background .5s ease,color .5s ease;
+    -o-transition: background .5s ease,color .5s ease;
+    transition: background .5s ease,color .5s ease;
+    -webkit-appearance: none;
+    display: inline-block;
+    font-size: 13px;
+    font-weight: 600;
+    text-decoration: none;
+    cursor: pointer;
+    margin-bottom: 20px;
+    line-height: normal;
+    height: 50px;
+    letter-spacing: 1px;
+    -webkit-appearance: none;
+    -webkit-border-radius: 0;
+}
+.add {
+    text-transform: uppercase;
+    margin: 20px auto;
+    display: block !important;
+    clear: left;
+    width: 50% !important;
+}

@@ -1,0 +1,56 @@
+#home_signup_form .sign-up-button.footer-signup {
+    border: none;
+    width: 100%;
+}
+.home .sign-up-button.footer-signup {
+    background: #ffba35;
+    box-shadow: 0 4px 0 #c48c20;
+    margin: 0;
+    width: 100%;
+    max-width: 342px;
+    font-size: 24px;
+    line-height: 1;
+    padding: 20px;
+}
+@media (max-width: 1399px)
+.sign-up-button.footer-signup {
+    padding: 12px 35px;
+}
+.sign-up-button.footer-signup {
+    background: #007aff;
+    box-shadow: 0 4px 0 0 #005bbd;
+    border-radius: 5px;
+    color: #fff;
+    letter-spacing: 0;
+    text-align: center;
+    text-shadow: 0 1px 1px rgba(0,0,0,.19);
+    padding: 20px 30px;
+    line-height: 1;
+    display: inline-block;
+    float: left;
+    margin-right: 20px;
+}
+button, html input[type=button], input[type=reset], input[type=submit] {
+    -webkit-appearance: button;
+    cursor: pointer;
+}
+input, textarea, label, button {
+    font-size: 17px;
+    line-height: 28px;
+    color: #4b4b4b;
+    font-family: circularstd-book;
+}
+button, input, select, textarea {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+
+input {
+    line-height: normal;
+}
+button, input, optgroup, select, textarea {
+    margin: 0;
+    font: inherit;
+    color: inherit;
+}

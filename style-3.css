@@ -1,0 +1,19 @@
+.single-product .product .single_add_to_cart_button {
+    font-size: 16px;
+    padding: 8px 15px;
+    text-align: center;
+    border: 1px solid #101010;
+    border-radius: 4px;
+    font-size: 14px;
+    background-color: #101010;
+    color: #fff;
+    font-weight: 800;
+    text-transform: none;
+    padding: .5em 1.9em;
+    font-size: 18px;
+    box-shadow: 0 4px 0 #393939,1px 3px 3px 0 rgba(0,0,0,.25) !important;
+}
+.product .entry-summary .kad_add_to_cart, .product .entry-summary .single_add_to_cart_button {
+    line-height: 26.5px;
+    padding: 0 18px;
+}

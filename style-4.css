@@ -1,0 +1,20 @@
+.single-product .product .single_add_to_cart_button {
+    font-size: 16px !important;
+    padding: 8px 15px !important;
+    text-align: center !important;
+    border: 1px solid #f00 !important;
+    border-radius: 4px !important;
+    font-size: 14px !important;
+    background-color: #f00 !important;
+    color: #fff !important;
+    font-weight: 800 !important;
+    text-transform: none !important;
+    /*padding: .5em 2.5em !important;*/
+    font-size: 18px !important;
+    box-shadow: 0 4px 0 #c30202,1px 3px 3px 0 rgba(0,0,0,.25) !important;
+}
+.product .entry-summary .kad_add_to_cart, .product .entry-summary .single_add_to_cart_button {
+    line-height: 40px !important;
+    padding: 2px 2.5em !important;
+    cursor: pointer;
+}

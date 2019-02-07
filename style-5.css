@@ -1,0 +1,22 @@
+.view_community .btn-primary {
+    background-color: #f8921f;
+    color: #fff;
+    text-transform: uppercase;
+    outline: none !important;
+}
+input[type="submit"], button, .btn, .uk-button {
+    display: inline-block;
+    line-height: 1.4;
+    padding: 10px 20px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    border-width: 0 0 2px;
+    border-style: solid;
+    border-color: rgba(0,0,0,0.25);
+    background: #dddcdc;
+    color: #6b6b6b;
+    -webkit-transition: all .35s;
+    -moz-transition: all .35s;
+    transition: all .35s;
+}

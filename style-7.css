@@ -1,0 +1,23 @@
+element {
+    padding: 1px;
+    border: 0;
+    color: #fff;
+    text-shadow: 0 -1px 0 rgba(0,0,0,.1);
+    fill: #fff;
+    background: linear-gradient(#3da1d6,#2288bf);
+    box-shadow: 0 1px 0 rgba(0,0,0,.12);
+    transition: none !important;
+    display: inline-block;
+    outline: none;
+    border: 1px solid #ccdfeb;
+    color: #738a94;
+    text-decoration: none !important;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    fill: #738a94;
+    border-radius: 5px;
+    transition: none;
+    -webkit-font-smoothing: subpixel-antialiased;
+}
